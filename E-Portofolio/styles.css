@@ -1,0 +1,10 @@
+@media(min-widht:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+body::befor{
+    display: block;
+    content: '';
+    height: 60px;
+}
